@@ -12,7 +12,9 @@ re
 # Rajendra GPT - Streamlit Chatbot
 
 live link: https://rajendra-gpt-r399um9bpymvrrazt6ckew.streamlit.app/
-![Capture1](https://github.com/user-attachments/assets/60579555-5193-41ca-8bd9-e088ef8a5a67)
+
+![rajendracoffee](https://github.com/user-attachments/assets/6ecdb801-e765-47e0-a02a-7db9d0758a6d)
+
 
 ## Overview
 
